@@ -1,5 +1,6 @@
 # Dum-E powered by Lyzr agents
-
+Demo video : https://drive.google.com/file/d/1AgrSY-L4hM9NSskvM61UPS18Qi6jfG3r/view?usp=drive_link 
+ps. youtube banned the video due to copyright over BG music, so sharring the video on drive.
 ## Overview
 
 The **Dum-E powered by Lyzr agents** is an interactive system that allows users to input text or drawing instructions via a chat interface. These instructions are then converted into precise line segments optimized for tracing by a robotic arm. The system leverages an API agent to interpret user inputs and commands a Niryo robotic arm to execute the drawings.
